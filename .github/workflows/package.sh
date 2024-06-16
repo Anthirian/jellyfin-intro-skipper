@@ -47,7 +47,7 @@ cat > manifest.json <<'EOF'
 {
     "version": "ASSEMBLY",
     "changelog": "- See the full changelog at [GitHub](https://github.com/ConfusedPolarBear/intro-skipper/blob/master/CHANGELOG.md)\n",
-    "targetAbi": "10.8.4.0",
+    "targetAbi": "10.9.3.0",
     "sourceUrl": "https://github.com/ConfusedPolarBear/intro-skipper/releases/download/VERSION/ZIP",
     "checksum": "CHECKSUM",
     "timestamp": "DATE"
